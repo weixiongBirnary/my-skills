@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Anchor Map"
+  short_description: "基于代码入口与依赖证据梳理项目核心调用锚点地图和阅读路径"
+  default_prompt: "Use $project-anchor-map to analyze the provided symbols, deps, and entrypoints data and output a Project Anchor Map with evidence-backed top core paths."

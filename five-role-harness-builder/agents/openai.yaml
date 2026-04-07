@@ -1,0 +1,4 @@
+interface:
+  display_name: "Five-Role Harness Builder"
+  short_description: "Create resumable five-role harness projects"
+  default_prompt: "Use $five-role-harness-builder to turn the current project into an interruptible, resumable five-role harness workflow."

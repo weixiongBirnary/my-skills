@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web UI Optimizer"
+  short_description: "Expert UI/UX design and high-performance frontend engineering"
+  default_prompt: "Help me optimize the UI and frontend implementation of my project."
